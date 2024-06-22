@@ -2,11 +2,7 @@
 
 ## What is it?
 
-MDMNI-DGD is a graph neural network approach for druggable gene discovery based on the integration of multi-omics data and multi-view network. 
-
-![Figure4](F:\冰\生物信息\靶点基因成药性评估\1-论文\Figures\Figure4.svg)
-
-As shown in figure, the input of MDMNI-DGD consists of the feature matrix of genes and gene association networks, and the output is a score representing the druggability of each gene. 
+MDMNI-DGD is a graph neural network approach for druggable gene discovery based on the integration of multi-omics data and multi-view network. The input of MDMNI-DGD consists of the feature matrix of genes and gene association networks, and the output is a score representing the druggability of each gene. 
 
 ## Requirements
 

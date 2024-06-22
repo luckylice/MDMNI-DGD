@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MDMNI-DGD
-=======
 # MDMNI-DGD
 
 ## What is it?
@@ -60,5 +57,3 @@ python case_study.py --train_name All_genes --networks 1 2 3 4 5 6
 
 - In the feature matrix, rows represent genes, and columns represent multi-omics features. The number of samples in each multi-perspective network should be consistent with the number of samples in the feature matrix.
 - During the training process of MDMNI-DGD, sample labels are required. The labels of the samples should be placed in the last column of the feature matrix.
-
->>>>>>> db8e82e (first commit)

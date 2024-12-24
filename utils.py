@@ -85,7 +85,6 @@ class EarlyStopping:
         self.val_loss_min = val_loss
 
 
-
 def load_featured_graph(network, omicfeature):
 
     omics_feature_vector = sp.csr_matrix(omicfeature, dtype=np.float32)
